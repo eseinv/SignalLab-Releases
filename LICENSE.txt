@@ -1,0 +1,28 @@
+SignalLab Proprietary License Notice
+
+Copyright (c) 2026 Ievgen Sein. All rights reserved.
+Creator and project owner: Ievgen Sein.
+
+SignalLab's original source code, binaries, documentation and original assets
+are proprietary. Except as expressly permitted by applicable law, a separate
+written agreement, or rights already validly granted, you may not reproduce,
+publish, redistribute, transfer, sublicense, modify, create derivative works
+from, sell, rent, lease or otherwise commercially distribute SignalLab, in
+whole or in part, without Ievgen Sein's prior written consent.
+
+Access to the source code or possession of a copy does not by itself grant
+permission for these activities. Any permission to use SignalLab is limited
+to the scope expressly authorized by its owner. Copyright, ownership and
+license notices must be retained in any authorized copies.
+
+Third-party components are excluded from these proprietary restrictions and
+remain governed by their respective licenses. This notice does not restrict
+rights granted by those licenses, mandatory legal rights, or rights necessarily
+provided under applicable hosting-platform terms. See THIRD-PARTY-NOTICES.md.
+
+To the fullest extent permitted by applicable law, SignalLab is provided
+"AS IS", without warranties or conditions of any kind, express or implied,
+including merchantability, fitness for a particular purpose and
+non-infringement. To that same extent, the owner is not liable for damages
+arising from use of, or inability to use, the software. Nothing in this notice
+excludes liability or rights that cannot lawfully be excluded.
