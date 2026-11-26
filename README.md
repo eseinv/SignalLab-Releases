@@ -4,9 +4,12 @@ Official Windows x64 portable downloads by **Ievgen Sein, creator and project ow
 This repository contains compiled releases, public verification material and update feeds.
 SignalLab's source code is maintained separately and is not published here.
 
-Open [Releases](https://github.com/eseinv/SignalLab-Releases/releases) and download the **Portable.zip** asset.
+Open the newest [Preview release](https://github.com/eseinv/SignalLab-Releases/releases) and download **SignalLab-win-preview-Portable.zip**.
 Extract the complete folder to a writable location and run its top-level **SignalLab.exe**.
-The .NET desktop runtime is included; no .NET installation is needed.
+The .NET desktop runtime is included.
+
+Free mode includes simulation and saved-recording analysis. To record from a live PLC or OPC UA server,
+activate a 30-day trial or full Recorder license in **Help → License**.
 
 Use **Help → Check for updates** inside SignalLab for signature-verified updates.
 The Preview channel receives current development releases; Stable receives designated stable releases.
